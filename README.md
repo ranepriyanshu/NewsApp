@@ -18,4 +18,5 @@ to handle API requests and responses.
 
 - Real-time news updates
 - User-friendly interface
+- fully reponsive for mobile, tablet and desktops
 
